@@ -1,0 +1,23 @@
+[
+  {
+    "document": "1001",
+    "name": "Ana Pérez",
+    "email": "ana@example.com",
+    "phone": "+57 3001234567",
+    "address": "Calle 10 #15-30, Medellín"
+  },
+  {
+    "document": "1002",
+    "name": "Luis Gómez",
+    "email": "luis@example.com",
+    "phone": "+57 3017654321",
+    "address": "Carrera 20 #45-22, Bogotá"
+  },
+  {
+    "document": "1003",
+    "name": "Sofía Martínez",
+    "email": "sofia@example.com",
+    "phone": "+57 3029876543",
+    "address": "Av. 80 #70-12, Cali"
+  }
+]
