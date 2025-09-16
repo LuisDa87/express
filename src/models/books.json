@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2",
+    "author": "Isabel Allende",
+    "name": "La casa de los espíritus 2",
+    "owner": "Carlos"
+  },
+  {
+    "id": "3",
+    "author": "Jorge Luis Borges",
+    "name": "Ficciones",
+    "owner": "Sofía"
+  },
+  {
+    "id": "4",
+    "author": "Julio Cortázar",
+    "name": "Rayuela",
+    "owner": "Luis"
+  },
+  {
+    "id": "5",
+    "author": "Gilmer Mesa",
+    "name": "La Cuadra",
+    "owner": "Gilmer Mesa - Espectador Editorial2"
+  }
+]
